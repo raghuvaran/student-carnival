@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2746ec7787e256179764aa909974cc30",
+    "revision": "003ef54962bddd63963b4cc004ab993a",
     "url": "/student-carnival/index.html"
   },
   {
-    "revision": "207d5a87cc6a7b205e96",
+    "revision": "2eed62cd71a85b463816",
     "url": "/student-carnival/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/student-carnival/static/js/2.38bd7a40.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "207d5a87cc6a7b205e96",
-    "url": "/student-carnival/static/js/main.c1d0fd91.chunk.js"
+    "revision": "2eed62cd71a85b463816",
+    "url": "/student-carnival/static/js/main.b9c71152.chunk.js"
   },
   {
     "revision": "432d8a661dde27299d3c",

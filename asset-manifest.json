@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/student-carnival/static/css/main.5f361e03.chunk.css",
-    "main.js": "/student-carnival/static/js/main.c1d0fd91.chunk.js",
-    "main.js.map": "/student-carnival/static/js/main.c1d0fd91.chunk.js.map",
+    "main.js": "/student-carnival/static/js/main.b9c71152.chunk.js",
+    "main.js.map": "/student-carnival/static/js/main.b9c71152.chunk.js.map",
     "runtime-main.js": "/student-carnival/static/js/runtime-main.fbed2260.js",
     "runtime-main.js.map": "/student-carnival/static/js/runtime-main.fbed2260.js.map",
     "static/js/2.38bd7a40.chunk.js": "/student-carnival/static/js/2.38bd7a40.chunk.js",
     "static/js/2.38bd7a40.chunk.js.map": "/student-carnival/static/js/2.38bd7a40.chunk.js.map",
     "index.html": "/student-carnival/index.html",
-    "precache-manifest.0a95303acb582f597b789883905550c4.js": "/student-carnival/precache-manifest.0a95303acb582f597b789883905550c4.js",
+    "precache-manifest.d74315cf230b07691bde0127e3192624.js": "/student-carnival/precache-manifest.d74315cf230b07691bde0127e3192624.js",
     "service-worker.js": "/student-carnival/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/student-carnival/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.38bd7a40.chunk.js.LICENSE.txt": "/student-carnival/static/js/2.38bd7a40.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fbed2260.js",
     "static/js/2.38bd7a40.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.c1d0fd91.chunk.js"
+    "static/js/main.b9c71152.chunk.js"
   ]
 }
